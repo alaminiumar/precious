@@ -19,7 +19,7 @@ rm precious.zip
 echo 'timesx=$(cat .precious.log)
 newtimesx=$((timesx + 1))
 cd ~
-echo "$newtimesx" > .precious/.log
+echo "$newtimesx" > .precious.log
 ' > /usr/bin/trackPreciousUsage.sh
 cd 
 rm -rf precious
