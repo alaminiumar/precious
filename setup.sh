@@ -2,8 +2,7 @@
 YELLOW='\033[33m'
 chmod +x firstscript.sh
 chmod +x secondscript.sh
-mkdir /var/precious
-echo 0 > /var/precious/precious.log
+echo 0 > ../.precious.log
 echo "firstscript.sh
 secondscript.sh
 trackPreciousUsage.sh
