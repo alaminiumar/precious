@@ -90,5 +90,5 @@ echo -e "$ascii_heart"
 sleep 2
 
 type_text "$WHITE" "With love, always — Confident 🫂 ❤️"
-sleep 3
+sleep 2
 echo

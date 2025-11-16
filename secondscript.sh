@@ -82,7 +82,7 @@ cls
 
 type_text "$WHITE" "You & Me, always ❤️🫂."
 echo
-sleep 5
+sleep 2
 
 echo -e "\033[31m
 ❤️💕💞 My dearest sis Adunyi,
